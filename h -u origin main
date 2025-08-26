@@ -1,0 +1,3 @@
+[33m8d9f2aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Fix table parameter handling and add MARA/MARC test class
+[33mde0f837[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add ABAP Program Validation Service
+[33m3dbd2c6[m feat: Add MARA record selection with RETURNING parameter and MCP validation demos
