@@ -1,0 +1,18 @@
+@EndUserText.label : '##GENERATED RAP Generator Test BO'
+@AbapCatalog.enhancement.category : #EXTENSIBLE_ANY
+@AbapCatalog.tableCategory : #TRANSPARENT
+@AbapCatalog.deliveryClass : #A
+@AbapCatalog.dataMaintenance : #RESTRICTED
+define table zraptest01_d {
+
+  key mandt          : mandt not null;
+  key testid         : char10 not null;
+  description        : char40;
+  locallastchangedat : abp_locinst_lastchange_tstmpl;
+  lastchangedat      : abp_lastchange_tstmpl;
+  lastchangedby      : syuname;
+  createdat          : abp_creation_tstmpl;
+  createdby          : syuname;
+  "%admin"           : include sych_bdl_draft_admin_inc;
+
+}

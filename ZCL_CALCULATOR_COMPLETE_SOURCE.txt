@@ -1,0 +1,90 @@
+*************************************************************
+* ZCL_CALCULATOR - Complete Source Code
+* Following: CLASS_METHOD_DEVELOPMENT_WORKFLOW.md
+* Methods: add, subtract, multiply, divide
+* Test Cases: 10 test methods
+*************************************************************
+
+CLASS zcl_calculator DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    "! Add two numbers
+    "! @parameter iv_a | First number
+    "! @parameter iv_b | Second number
+    "! @parameter rv_result | Sum of iv_a and iv_b
+    METHODS add
+      IMPORTING
+        iv_a               TYPE i
+        iv_b               TYPE i
+      RETURNING
+        VALUE(rv_result)   TYPE i.
+
+    "! Subtract second number from first
+    "! @parameter iv_a | First number
+    "! @parameter iv_b | Second number
+    "! @parameter rv_result | Difference (iv_a - iv_b)
+    METHODS subtract
+      IMPORTING
+        iv_a               TYPE i
+        iv_b               TYPE i
+      RETURNING
+        VALUE(rv_result)   TYPE i.
+
+    "! Multiply two numbers
+    "! @parameter iv_a | First number
+    "! @parameter iv_b | Second number
+    "! @parameter rv_result | Product of iv_a and iv_b
+    METHODS multiply
+      IMPORTING
+        iv_a               TYPE i
+        iv_b               TYPE i
+      RETURNING
+        VALUE(rv_result)   TYPE i.
+
+    "! Divide first number by second
+    "! @parameter iv_a | Dividend
+    "! @parameter iv_b | Divisor
+    "! @parameter rv_result | Quotient (iv_a / iv_b)
+    "! @raising cx_sy_zerodivide | Division by zero error
+    METHODS divide
+      IMPORTING
+        iv_a               TYPE i
+        iv_b               TYPE i
+      RETURNING
+        VALUE(rv_result)   TYPE decfloat16
+      RAISING
+        cx_sy_zerodivide.
+
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_calculator IMPLEMENTATION.
+
+  METHOD add.
+    rv_result = iv_a + iv_b.
+  ENDMETHOD.
+
+  METHOD subtract.
+    rv_result = iv_a - iv_b.
+  ENDMETHOD.
+
+  METHOD multiply.
+    rv_result = iv_a * iv_b.
+  ENDMETHOD.
+
+  METHOD divide.
+    IF iv_b = 0.
+      RAISE EXCEPTION TYPE cx_sy_zerodivide.
+    ENDIF.
+    rv_result = iv_a / iv_b.
+  ENDMETHOD.
+
+ENDCLASS.
+
+

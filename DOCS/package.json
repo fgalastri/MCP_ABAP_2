@@ -1,0 +1,55 @@
+{
+  "name": "documentation-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for centralized development documentation",
+  "type": "module",
+  "main": "server_docs.js",
+  "scripts": {
+    "start": "node server_docs.js"
+  },
+  "keywords": [
+    "mcp",
+    "documentation",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

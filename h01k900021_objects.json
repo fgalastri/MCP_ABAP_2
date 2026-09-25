@@ -1,0 +1,912 @@
+[
+  {
+    "name": "ZTT_TERRITORIES",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000130",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_STREET_ADDRESSES",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000129",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_SOLDTOS",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000128",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_SHIPTOS",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000127",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_SALES_DOCUMENTS",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000126",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_SALESORDER",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000125",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_SALESAREAS",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000124",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_POSTAL_ADDRESSES",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000123",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_PARTNERS_SALES",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000122",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_PARTNERS",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000121",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_LOG",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000120",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_FUNCTIONS",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000119",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_BP_OUT",
+    "type": "TTYP",
+    "pgmid": "R3TR",
+    "position": "000118",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZTT_LOG",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000117",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_SA_DOC_CAT",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000116",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_SALES_DOCUMENTS",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000115",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_SALESORDER",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000114",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_POSTAL_ADDRESSES",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000113",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_PARTNERS_SALES_AREA",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000112",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_PARTNERS",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000111",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_NR_SA",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000110",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_LOG",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000109",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_FUNCTIONS_PARTNERS",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000108",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_DEEP_SDLIST_OUT",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000107",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_DATA",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000106",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZST_C_CUSTOM_ENTITY_BP_IN",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000105",
+    "obj_desc": ""
+  },
+  {
+    "name": "FF63D99AE584EE6B00B4ED966C8FB3HT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000104",
+    "obj_desc": ""
+  },
+  {
+    "name": "E53638CC050A7F39ADEB0CBA6ED088HT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000103",
+    "obj_desc": ""
+  },
+  {
+    "name": "D82EA8D696C6B8CF9160562282332AHT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000102",
+    "obj_desc": ""
+  },
+  {
+    "name": "8E10C95B51B57FDC47DFD8D6837CC7HT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000101",
+    "obj_desc": ""
+  },
+  {
+    "name": "89352549F92AC692DE812EF51102A1HT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000100",
+    "obj_desc": ""
+  },
+  {
+    "name": "7B224C10EBB18BD4EAC7A7CD782B0BHT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000099",
+    "obj_desc": ""
+  },
+  {
+    "name": "0C52666FC81CCD1A2A8AB95A69FD0EHT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000098",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZSD_ENTITYCUSTOM_BP",
+    "type": "SRVD",
+    "pgmid": "R3TR",
+    "position": "000097",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZSD_CUSTOM_ENTITY_BP_IN",
+    "type": "SRVD",
+    "pgmid": "R3TR",
+    "position": "000096",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZSD_CUSTOM123",
+    "type": "SRVD",
+    "pgmid": "R3TR",
+    "position": "000095",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZAPI_SDLIST",
+    "type": "SRVC",
+    "pgmid": "R3TR",
+    "position": "000094",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_ENTITYCUSTOM_BP",
+    "type": "SRVB",
+    "pgmid": "R3TR",
+    "position": "000093",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP_IN",
+    "type": "SRVB",
+    "pgmid": "R3TR",
+    "position": "000092",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP",
+    "type": "SRVB",
+    "pgmid": "R3TR",
+    "position": "000091",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_CUSTOM123",
+    "type": "SRVB",
+    "pgmid": "R3TR",
+    "position": "000090",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_ENTITYCUSTOM_BP_IWSG",
+    "type": "SCO2",
+    "pgmid": "R3TR",
+    "position": "000089",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP_IWSG",
+    "type": "SCO2",
+    "pgmid": "R3TR",
+    "position": "000088",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP_IN_0001_G4BA",
+    "type": "SCO2",
+    "pgmid": "R3TR",
+    "position": "000087",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_CUSTOM123_IWSG",
+    "type": "SCO2",
+    "pgmid": "R3TR",
+    "position": "000086",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCS_COREVIST_BP_DEEP",
+    "type": "SCO1",
+    "pgmid": "R3TR",
+    "position": "000085",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_ENTITYCUSTOM_BP_0001",
+    "type": "OA2S",
+    "pgmid": "R3TR",
+    "position": "000084",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP_0001",
+    "type": "OA2S",
+    "pgmid": "R3TR",
+    "position": "000083",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_CUSTOM123_0001",
+    "type": "OA2S",
+    "pgmid": "R3TR",
+    "position": "000082",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_ENTITYCUSTOM_BP              0001",
+    "type": "IWSV",
+    "pgmid": "R3TR",
+    "position": "000081",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP                        0001",
+    "type": "IWSV",
+    "pgmid": "R3TR",
+    "position": "000080",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_CUSTOM123                    0001",
+    "type": "IWSV",
+    "pgmid": "R3TR",
+    "position": "000079",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_ENTITYCUSTOM_BP_0001",
+    "type": "IWSG",
+    "pgmid": "R3TR",
+    "position": "000078",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP_0001",
+    "type": "IWSG",
+    "pgmid": "R3TR",
+    "position": "000077",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_CUSTOM123_0001",
+    "type": "IWSG",
+    "pgmid": "R3TR",
+    "position": "000076",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_ENTITYCUSTOM_BP_0001_BE",
+    "type": "IWOM",
+    "pgmid": "R3TR",
+    "position": "000075",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP_0001_BE",
+    "type": "IWOM",
+    "pgmid": "R3TR",
+    "position": "000074",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_CUSTOM123_0001_BE",
+    "type": "IWOM",
+    "pgmid": "R3TR",
+    "position": "000073",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_ENTITYCUSTOM_BP           0001",
+    "type": "IWMO",
+    "pgmid": "R3TR",
+    "position": "000072",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP                     0001",
+    "type": "IWMO",
+    "pgmid": "R3TR",
+    "position": "000071",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_CUSTOM123                 0001",
+    "type": "IWMO",
+    "pgmid": "R3TR",
+    "position": "000070",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZAPI_SDLIST                         0001",
+    "type": "GCPM",
+    "pgmid": "R3TR",
+    "position": "000069",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBIND_EC_BP_IN",
+    "type": "G4BA",
+    "pgmid": "R3TR",
+    "position": "000068",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZI_CUSTOM_ENTITY_BP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000067",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZI_CUSTOM_ENTITYBP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000066",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_USER_DATA_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000065",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_SOLDTO_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000064",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_SHIPTO_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000063",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_SEARCH_CRITERI_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000062",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_SALES_AREAS_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000061",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_SALESORDER_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000060",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000059",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_CRITERIA_TAB_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000058",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_ASSIGNED_TERRITORIES_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000057",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE__C_CUSTOM_ENTITY_BP_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000056",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_TEXTS_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000055",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_TEXTS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000054",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_STREET_ADDRESSES_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000053",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_STREET_ADDRESSES",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000052",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_POSTAL_ADDRESSES_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000051",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_POSTAL_ADDRESSES",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000050",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_PARTNERS_SALES_DATA_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000049",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_PARTNERS_SALES_DATA",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000048",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_PARTNERS_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000047",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_PARTNERS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000046",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_LOG_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000045",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_LOG",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000044",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_FUNCTIONS_PARTNERS_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000043",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_FUNCTIONS_PARTNERS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000042",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_C_CUSTOM_ENTITY_BP_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000041",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM_TABLES_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000040",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM_TABLES",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000039",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM_ENTITY_BP_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000038",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM_ENTITY_BP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000037",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM3",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000036",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM2",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000035",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM1",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000034",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_USER_DATA_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000033",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_TERRITORIES_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000032",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_TERRITORIES",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000031",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_SOLD_TOS_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000030",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_SOLD_TOS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000029",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_SHIP_TOS_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000028",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_SHIP_TOS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000027",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_SALES_AREAS_IN",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000026",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_ASSIGNED_SALES_AREAS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000025",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_GET_PARTNER",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000024",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_C_CE_BP",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000023",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_TEXTS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000022",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_TERRITORIES",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000021",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_STREET_ADDRESSES",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000020",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_SOLD_TOS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000019",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_SHIP_TOS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000018",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_SALES_AREAS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000017",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_POSTAL_ADDRESSES",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000016",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_PARTNERS_SALES_DATA",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000015",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_PARTNERS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000014",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_PARTNER",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000013",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_LOG",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000012",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_FUNCTIONS_PARTNERS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000011",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_CUSTOM_TABLES",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000010",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_CUSTOM3",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000009",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_CUSTOM2",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000008",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_CUSTOM1",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000007",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_CE_BP",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000006",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZBP_CE_C_CUSTOM_ENTITY_BP_IN",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000005",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZAPI_SDLIST",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000004",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDEEP_SDLIST_IN",
+    "type": "BDEF",
+    "pgmid": "R3TR",
+    "position": "000003",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_C_CUSTOM_ENTITY_BP_IN",
+    "type": "BDEF",
+    "pgmid": "R3TR",
+    "position": "000002",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCE_CUSTOM_ENTITY_BP_IN",
+    "type": "BDEF",
+    "pgmid": "R3TR",
+    "position": "000001",
+    "obj_desc": ""
+  }
+]

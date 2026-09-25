@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "abap-adt-thin-http": {
+      "command": "node",
+      "args": ["C:\\Users\\FabianoGalastri\\Cursor\\MCP\\ADT\\server_http_client_thin.js"],
+      "env": {
+        "MCP_HTTP_URL": "http://localhost:3000",
+        "LOCAL_AGENT_URL": "http://localhost:3001"
+      }
+    }
+  }
+}

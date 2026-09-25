@@ -1,0 +1,39 @@
+{
+  "DEV": {
+    "serverName": "abap-adt-onprem",
+    "systemId": "Development (ON-PREM)",
+    "baseUrl": "https://your-dev-server.com:44300",
+    "username": "YOUR_USERNAME",
+    "password": "YOUR_PASSWORD",
+    "client": "100",
+    "authMode": "basic",
+    "language": "EN",
+    "clientSpecificCredentials": {
+      "200": {
+        "username": "USER_FOR_CLIENT_200",
+        "password": "PASSWORD_FOR_CLIENT_200"
+      }
+    }
+  },
+  "QA": {
+    "serverName": "abap-adt-qa",
+    "systemId": "Quality Assurance (ON-PREM)",
+    "baseUrl": "https://your-qa-server.com:44300",
+    "username": "YOUR_USERNAME",
+    "password": "YOUR_PASSWORD",
+    "client": "100",
+    "authMode": "basic",
+    "language": "EN"
+  },
+  "BTP": {
+    "serverName": "abap-adt-btp",
+    "systemId": "BTP (Cloud)",
+    "baseUrl": "https://your-btp-id.abap-web.region.hana.ondemand.com",
+    "client": "100",
+    "authMode": "btp",
+    "language": "EN",
+    "btpCookiesFile": "C:\\path\\to\\MCP\\ADT\\btp_cookies.json"
+  }
+}
+
+

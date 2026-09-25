@@ -1,0 +1,39 @@
+# Environment variables (contains credentials!)
+.env
+.env.local
+.env.production
+
+# SAP Credentials (NEVER COMMIT!)
+sap_systems.json
+btp_cookies.json
+current_system.json
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+npm-debug.log*
+server.log
+adt_debug*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Test files
+test/
+*.test.js
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+
+

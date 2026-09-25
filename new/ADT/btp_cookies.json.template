@@ -1,0 +1,10 @@
+{
+  "cookies": [
+    "MYSAPSSO2=<your_sso_token>",
+    "JSESSIONID=<your_session_id>",
+    "__VCAP_ID__=<your_vcap_id>",
+    "sap-usercontext=sap-language=EN&sap-client=100"
+  ]
+}
+
+

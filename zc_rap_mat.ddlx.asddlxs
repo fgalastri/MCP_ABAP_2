@@ -1,0 +1,43 @@
+@Metadata.layer: #CUSTOMER
+@UI: {
+  headerInfo: {
+    typeName: 'Material',
+    typeNamePlural: 'Materials',
+    title: { type: #STANDARD, value: 'MaterialID' }
+  }
+}
+annotate view ZC_RAP_MAT with
+{
+  @UI.facet: [ {
+    id: 'MaterialData',
+    purpose: #STANDARD,
+    type: #IDENTIFICATION_REFERENCE,
+    label: 'Material Details',
+    position: 10
+  } ]
+  
+  @UI: {
+    lineItem: [ 
+      { position: 10, importance: #HIGH },
+      { type: #FOR_ACTION, dataAction: 'toggleDeletion', label: 'Toggle Deletion Flag' }
+    ],
+    identification: [ { position: 10 } ],
+    selectionField: [ { position: 10 } ]
+  }
+  MaterialID;
+  
+  @UI: {
+    lineItem: [ { position: 20, importance: #HIGH } ],
+    identification: [ { position: 20 } ],
+    selectionField: [ { position: 20 } ]
+  }
+  Description;
+  
+  @UI: {
+    lineItem: [ { position: 30, importance: #HIGH } ],
+    identification: [ { position: 30 } ],
+    selectionField: [ { position: 30 } ]
+  }
+  Deleted;
+
+}

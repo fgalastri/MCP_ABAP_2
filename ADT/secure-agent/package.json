@@ -1,0 +1,28 @@
+{
+  "name": "abap-mcp-secure-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Minimal local agent for secure ABAP MCP architecture",
+  "main": "simple-agent.js",
+  "scripts": {
+    "setup": "node setup.js",
+    "test": "node encryption.js && echo '\n' && node local-agent.js example-encrypted-request.json",
+    "test-encryption": "node encryption.js",
+    "test-agent": "node local-agent.js example-encrypted-request.json"
+  },
+  "keywords": [
+    "sap",
+    "abap",
+    "mcp",
+    "security",
+    "encryption"
+  ],
+  "author": "Your Company",
+  "license": "SEE LICENSE IN LICENSE-AGREEMENT.md",
+  "dependencies": {
+    "axios": "^1.13.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

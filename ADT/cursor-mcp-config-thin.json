@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "abap-adt-thin": {
+      "command": "node",
+      "args": ["C:\\Users\\FabianoGalastri\\Cursor\\MCP\\ADT\\server_adt_thin.js"],
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "description": "ABAP ADT MCP Server - Thin Client Mode (credentials stay local)"
+    }
+  }
+}

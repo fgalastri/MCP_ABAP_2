@@ -18,10 +18,10 @@ import { v4 as uuidv4 } from 'uuid';
 
 // SAP Connection Configuration
 const SAP_CONFIG = {
-  baseUrl: process.env.SAP_BASE_URL || 'https://vhnacnc1ci.sap.naturaeco.com:44300/',
-  username: process.env.SAP_USERNAME || '375551999',
-  password: process.env.SAP_PASSWORD || 'Vaees@20252026!',
-  client: process.env.SAP_CLIENT || '210',
+  baseUrl: 'https://s4hana2023.numenit.com:44301/',
+  username: 'FGALASTRI',
+  password: 'Vaees@9999',
+  client: '100',  
   validationServicePath: '/sap/opu/odata4/sap/zsb_mcp_method_validate/srvd_a2x/sap/zsd_mcp_method_validate/0001/',
   metadataServicePath: '/sap/opu/odata4/sap/zsb_mcp_metadata_service/srvd_a2x/sap/zsd_mcp_metadata_service/0001/',
   programValidationServicePath: '/sap/opu/odata4/sap/zsb_mcp_program_validate/srvd_a2x/sap/zsd_mcp_program_validate/0001/'
@@ -91,12 +91,23 @@ class BaseSAPConnection {
 
     try {
       // Getting new CSRF token...
+      console.log(`CSRF Token Request URL: ${this.serviceUrl}`);
+      console.log(`Using credentials - Username: ${SAP_CONFIG.username}, Client: ${SAP_CONFIG.client}`);
+      console.log(`CSRF Token Request Headers:`, { 'X-CSRF-Token': 'Fetch' });
+      
       const response = await this.client.get(this.serviceUrl, {
         headers: { 'X-CSRF-Token': 'Fetch' }
       });
       
       // Response headers received
-      this.csrfToken = response.headers['x-csrf-token'];
+      console.log(`Response received:`, {
+        status: response?.status,
+        statusText: response?.statusText,
+        headers: response?.headers,
+        hasHeaders: !!response?.headers
+      });
+      
+      this.csrfToken = response?.headers?.['x-csrf-token'];
       if (this.csrfToken) {
         // CSRF token obtained - set expiry time (25 minutes from now)
         this.csrfTokenExpiry = Date.now() + (25 * 60 * 1000);
@@ -109,6 +120,17 @@ class BaseSAPConnection {
       return { success: false, error: 'No CSRF token in response headers' };
     } catch (error) {
       // Failed to get CSRF token
+      console.error(`CSRF Token Request FAILED for URL: ${this.serviceUrl}`);
+      console.error(`Error details:`, {
+        message: error.message,
+        status: error.response?.status,
+        statusText: error.response?.statusText,
+        url: error.config?.url,
+        method: error.config?.method,
+        responseData: error.response?.data,
+        hasResponse: !!error.response
+      });
+      
       this.isTokenValid = false;
       this.csrfToken = null;
       return { 

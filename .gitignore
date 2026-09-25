@@ -45,3 +45,19 @@ Thumbs.db
 
 # Python cache
 __pycache__/
+
+# Python virtual environments
+mcp_venv/
+mcp_server_env/
+mcp_server_venv/
+
+# Archives
+*.zip
+
+# Local credentials and session cookies
+mcp.env
+mcp.env.backup
+.cursor/mcp.json
+btp_cookies.json
+cookies.json
+sap_systems.json

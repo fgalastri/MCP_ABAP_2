@@ -1,0 +1,1087 @@
+[
+  {
+    "name": "ZDMO_UUID_S_ITEM",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000155",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UUID_ITEM",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000154",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UUID_HEADER",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000153",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_TEST",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000152",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGPROJ00D",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000151",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGNODE00D",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000150",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGLOG00D",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000149",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGFIEL00D",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000148",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGEN_NODE",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000147",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGEN_LOG",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000146",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGEN_FLDS",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000145",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPGEN_BO",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000144",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_FCAL_HOLI_T",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000143",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_FCAL_HOLI",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000142",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_DRAFT_INCL",
+    "type": "TABL",
+    "pgmid": "R3TR",
+    "position": "000141",
+    "obj_desc": ""
+  },
+  {
+    "name": "E3DA4B3AEC7D9BC10214F908CC4AD4HT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000140",
+    "obj_desc": ""
+  },
+  {
+    "name": "AED209D61E3A38DA0CD43CDF29C339HT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000139",
+    "obj_desc": ""
+  },
+  {
+    "name": "9C4787AC04F9DF9101EB82A40D1A6FHT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000138",
+    "obj_desc": ""
+  },
+  {
+    "name": "509049A713EB429CB0A2ED43CFD0D0HT",
+    "type": "SUSH",
+    "pgmid": "R3TR",
+    "position": "000137",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAPG_PROJECT01",
+    "type": "SRVD",
+    "pgmid": "R3TR",
+    "position": "000136",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_SD",
+    "type": "SRVD",
+    "pgmid": "R3TR",
+    "position": "000135",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_SDLIST_SCM",
+    "type": "SRVC",
+    "pgmid": "R3TR",
+    "position": "000134",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_BTP_ASSIGNPART_SCM",
+    "type": "SRVC",
+    "pgmid": "R3TR",
+    "position": "000133",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_ASSIGNPART_SCM",
+    "type": "SRVC",
+    "pgmid": "R3TR",
+    "position": "000132",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2",
+    "type": "SRVB",
+    "pgmid": "R3TR",
+    "position": "000131",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_API_000",
+    "type": "SRVB",
+    "pgmid": "R3TR",
+    "position": "000130",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_SDLIST_REST",
+    "type": "SCO3",
+    "pgmid": "R3TR",
+    "position": "000129",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_ASSIGNPART_REST",
+    "type": "SCO3",
+    "pgmid": "R3TR",
+    "position": "000128",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2_IWSG",
+    "type": "SCO2",
+    "pgmid": "R3TR",
+    "position": "000127",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_API_000_IWSG",
+    "type": "SCO2",
+    "pgmid": "R3TR",
+    "position": "000126",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_SDLIST_CS",
+    "type": "SCO1",
+    "pgmid": "R3TR",
+    "position": "000125",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_IN_ODATA_ASSIGNPART_CSCEN",
+    "type": "SCO1",
+    "pgmid": "R3TR",
+    "position": "000124",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_ASSIGNPART_CS",
+    "type": "SCO1",
+    "pgmid": "R3TR",
+    "position": "000123",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2_0001",
+    "type": "OA2S",
+    "pgmid": "R3TR",
+    "position": "000122",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_API_000_0001",
+    "type": "OA2S",
+    "pgmid": "R3TR",
+    "position": "000121",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CM_RAP_GEN_MSG",
+    "type": "MSAG",
+    "pgmid": "R3TR",
+    "position": "000120",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2_VAN     0001",
+    "type": "IWVB",
+    "pgmid": "R3TR",
+    "position": "000119",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2            0001",
+    "type": "IWSV",
+    "pgmid": "R3TR",
+    "position": "000118",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_API_000             0001",
+    "type": "IWSV",
+    "pgmid": "R3TR",
+    "position": "000117",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2_0001",
+    "type": "IWSG",
+    "pgmid": "R3TR",
+    "position": "000116",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_API_000_0001",
+    "type": "IWSG",
+    "pgmid": "R3TR",
+    "position": "000115",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2_0001_BE",
+    "type": "IWOM",
+    "pgmid": "R3TR",
+    "position": "000114",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_API_000_0001_BE",
+    "type": "IWOM",
+    "pgmid": "R3TR",
+    "position": "000113",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_UI_RAPG_PROJECT_O2         0001",
+    "type": "IWMO",
+    "pgmid": "R3TR",
+    "position": "000112",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_C_ASSIGNPART_API_000          0001",
+    "type": "IWMO",
+    "pgmid": "R3TR",
+    "position": "000111",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_SDLIST_SCM                        0001",
+    "type": "GCPM",
+    "pgmid": "R3TR",
+    "position": "000110",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_BTP_ASSIGNPART_SCM                0001",
+    "type": "GCPM",
+    "pgmid": "R3TR",
+    "position": "000109",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_ASSIGNPART_SCM                    0001",
+    "type": "GCPM",
+    "pgmid": "R3TR",
+    "position": "000108",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_ROOT_ENTITYNAME",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000107",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_PARENT_ENTITYNAME",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000106",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_NAMESPACE",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000105",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_ENTITYNAME",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000104",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_DRAFT_ENABLED",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000103",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_CDS_VIEW_FIELD",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000102",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_ABAPLANGVERSION",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000101",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_HOLIDAY_ID_SWC",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000100",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_FCAL_HOLIDAY_ID",
+    "type": "DTEL",
+    "pgmid": "R3TR",
+    "position": "000099",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_NAMESPACE",
+    "type": "DOMA",
+    "pgmid": "R3TR",
+    "position": "000098",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_ENTITYNAME",
+    "type": "DOMA",
+    "pgmid": "R3TR",
+    "position": "000097",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_CDS_VIEW_FIELD",
+    "type": "DOMA",
+    "pgmid": "R3TR",
+    "position": "000096",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GEN_ABAPLANGVERSION",
+    "type": "DOMA",
+    "pgmid": "R3TR",
+    "position": "000095",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_FCAL_HOLIDAY_ID",
+    "type": "DOMA",
+    "pgmid": "R3TR",
+    "position": "000094",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_RAP_GENERATOR",
+    "type": "DEVC",
+    "pgmid": "R3TR",
+    "position": "000093",
+    "obj_desc": ""
+  },
+  {
+    "name": "YSRV_REST_TEST",
+    "type": "DEVC",
+    "pgmid": "R3TR",
+    "position": "000092",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCONN_SRV_TST",
+    "type": "DEVC",
+    "pgmid": "R3TR",
+    "position": "000091",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_PROJECTTP",
+    "type": "DDLX",
+    "pgmid": "R3TR",
+    "position": "000090",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_NODETP",
+    "type": "DDLX",
+    "pgmid": "R3TR",
+    "position": "000089",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_LOGTP",
+    "type": "DDLX",
+    "pgmid": "R3TR",
+    "position": "000088",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_FIELDTP",
+    "type": "DDLX",
+    "pgmid": "R3TR",
+    "position": "000087",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_TEST_ABSTRACT_ROOT_ENTITY",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000086",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_TEST_ABSTRACT_GRANDCHILDE",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000085",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_TEST_ABSTRACT_CHILDENTITY",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000084",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_R_RAPG_PROJECTTPDRAFT",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000083",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_R_RAPG_PROJECTTP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000082",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_R_RAPG_NODETPDRAFT",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000081",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_R_RAPG_NODETP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000080",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_R_RAPG_LOGTP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000079",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_R_RAPG_FIELDTP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000078",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_RAPBONODE",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000077",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_NEW_PROJ",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000076",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_COPY_PROJ",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000075",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_ADD_NODET",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000074",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_ADD_NODEC",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000073",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_ADD_NODEA",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000072",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_ADD_NODE",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000071",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_PARAM_ADD_CHILD",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000070",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_GET_TABLES",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000069",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_GET_CDS_VIEWS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000068",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GEN_GET_ABSTRCT_ENT",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000067",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_PACKAGE",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000066",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_JOB_STAT",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000065",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_IMPL_TYPE",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000064",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_IMPL_TYP2",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000063",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_FIELDS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000062",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_DSRC_TYPE",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000061",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_DATA_SRC2",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000060",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_BOOL_VH",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000059",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_BIND_TYPE",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000058",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_APPL_LOG",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000057",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_I_RAP_GENERATOR_ABAP_VERS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000056",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_PROJECTTP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000055",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_NODETP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000054",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_LOGTP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000053",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_FIELDTP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000052",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCE_USERDATA",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000051",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCE_FUNCTIONS_PARTNERS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000050",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCE_CUSTOMENTITYBP",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000049",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCE_ASSIGNEDSOLDTOS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000048",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCE_ASSIGNEDSALESAREAS",
+    "type": "DDLS",
+    "pgmid": "R3TR",
+    "position": "000047",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_GEN_RAP630_SINGLE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000046",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_GEN_RAP110_SINGLE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000045",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CX_RAP_GEN_CUSTOM_ENTITY",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000044",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CX_RAP_GENERATOR",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000043",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_XCO_ON_PREM_LIB",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000042",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_XCO_LIB",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000041",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_XCO_JSON_VISITOR",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000040",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_XCO_CLOUD_LIB",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000039",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_NODE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000038",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_SHOW_APPL_LOG",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000037",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_REUSE_COMP",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000036",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_IN_BACKGROUND",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000035",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_PACKAGE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000034",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_JOB_STATUS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000033",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_IMPL_TYPE2",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000032",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_IMPL_TYPE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000031",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_FIELDS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000030",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_DSRC_TYPE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000029",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_DATA_SRC_2",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000028",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_BOOLEANS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000027",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_BIND_TYPE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000026",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_GET_ABAP_VERS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000025",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GEN_BUILD_JSON_2",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000024",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR_TEST",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000023",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR_STRTBGPF",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000022",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR_DEL_ASYN",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000021",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR_DEL",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000020",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR_CONSOLE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000019",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR_BASE",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000018",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR_ASYN",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000017",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_RAP_GENERATOR",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000016",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_FE_TRAVEL_GENERATOR",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000015",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_CL_CREATE_RAPXXX_PACKAGES",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000014",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_BP_RAPG_ALL",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000013",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZCL_PARTNER_CORE_TMP",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000012",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_SDLIST_SCM",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000011",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_SDLIST_MAIN",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000010",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_EXPOSE_TEST",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000009",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_BTP_ASSIGNPART_SCM",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000008",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_ASSIGNPART_SCM",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000007",
+    "obj_desc": ""
+  },
+  {
+    "name": "Y_ASSIGNPART_MAIN",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000006",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCL_CUSTOM_ENTITY_BP_IMPL",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000005",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCL_BTP_ASSIGNPARTNERS",
+    "type": "CLAS",
+    "pgmid": "R3TR",
+    "position": "000004",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_R_RAPG_PROJECTTP",
+    "type": "BDEF",
+    "pgmid": "R3TR",
+    "position": "000003",
+    "obj_desc": ""
+  },
+  {
+    "name": "ZDMO_C_RAPG_PROJECTTP",
+    "type": "BDEF",
+    "pgmid": "R3TR",
+    "position": "000002",
+    "obj_desc": ""
+  },
+  {
+    "name": "YCE_CUSTOMENTITYBP",
+    "type": "BDEF",
+    "pgmid": "R3TR",
+    "position": "000001",
+    "obj_desc": ""
+  }
+]

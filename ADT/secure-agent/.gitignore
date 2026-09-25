@@ -1,0 +1,45 @@
+# Secure Agent - Git Ignore File
+# CRITICAL: Never commit secrets to version control!
+
+# Encryption key (SECRET!)
+agent.key
+*.key
+
+# Example encrypted requests (may contain sensitive data)
+example-encrypted-request.json
+test-*.json
+
+# Node modules
+node_modules/
+package-lock.json
+
+# SAP credentials (NEVER commit!)
+../sap_systems.json
+../current_system.json
+../*_cookies.json
+
+# Logs (may contain sensitive data)
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+tmp/
+temp/
+*.tmp

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "abap-adt-thin-v2": {
+      "command": "node",
+      "args": ["C:\\Users\\FabianoGalastri\\Cursor\\MCP\\ADT\\server_adt_thin_v2.js"]
+    }
+  }
+}

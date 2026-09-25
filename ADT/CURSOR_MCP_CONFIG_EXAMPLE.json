@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "abap-adt": {
+      "command": "node",
+      "args": ["C:\\Users\\FabianoGalastri\\Cursor\\MCP\\ADT\\server_adt.js"],
+      "env": {
+        "SAP_SYSTEM": "DEV"
+      }
+    },
+    "abap-adt-http": {
+      "command": "node",
+      "args": ["C:\\Users\\FabianoGalastri\\Cursor\\MCP\\ADT\\server_http_client.js"],
+      "env": {
+        "HTTP_BASE_URL": "http://localhost:3000",
+        "HTTP_API_KEY": "natura-mcp-2026"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+@AccessControl.authorizationCheck: #CHECK
+@Metadata.allowExtensions: true
+@EndUserText.label: 'Projection View for ZR_RAPTEST01'
+@ObjectModel.semanticKey: [ 'TestID' ]
+define root view entity ZC_RAPTEST01
+  provider contract transactional_query
+  as projection on ZR_RAPTEST01
+{
+  key TestID,
+  Description,
+  LocalLastChangedAt,
+  LastChangedBy,
+  CreatedBy
+  
+}

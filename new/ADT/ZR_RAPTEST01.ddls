@@ -1,0 +1,17 @@
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: '##GENERATED RAP Generator Test BO'
+define root view entity ZR_RAPTEST01
+  as select from zraptest01
+{
+  key test_id as TestID,
+  description as Description,
+  @Semantics.systemDateTime.localInstanceLastChangedAt: true
+  local_last_changed_at as LocalLastChangedAt,
+  @Semantics.systemDateTime.lastChangedAt: true
+  last_changed_at as LastChangedAt,
+  last_changed_by as LastChangedBy,
+  @Semantics.systemDateTime.createdAt: true
+  created_at as CreatedAt,
+  created_by as CreatedBy
+  
+}

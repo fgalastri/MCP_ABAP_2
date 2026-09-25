@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "abap-adt": {
+      "command": "node",
+      "args": ["C:\\path\\to\\your\\MCP\\ADT\\server_adt.js"],
+      "env": {
+        "SAP_SYSTEM": "DEV"
+      }
+    }
+  }
+}
+
+
